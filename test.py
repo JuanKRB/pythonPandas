@@ -76,4 +76,4 @@ print("/////")
 print(df2.loc[0:2,'Age':'City'])
 print("/////")
 print(df3.loc['Bob':'David', 'Age':'City'])
-
+print("/////")
